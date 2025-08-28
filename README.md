@@ -70,15 +70,6 @@ I enjoy picking up new tools quickly and have used everything from **Kubernetes 
 
 ---
 
-### 📊 GitHub by the Numbers
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jainnikhil1005&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainnikhil1005&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
----
-
 ### 🏈 Outside of Tech
 I’m a big believer in balance, so outside of school and engineering, you’ll find me:  
 - Cheering for the **Dallas Cowboys 🏈**, **Dallas Mavericks 🏀**, and **Texas Rangers ⚾**  
