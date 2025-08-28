@@ -70,6 +70,18 @@ I enjoy picking up new tools quickly and have used everything from **Kubernetes 
 
 ---
 
+### 📚 Currently Learning & Goals
+Right now, I’m diving deeper into:  
+- **Distributed systems** and how to design reliable software at scale.  
+- **AI/ML integration** into real-world products (beyond just models).  
+- **Cloud-native architecture** with Kubernetes and serverless platforms.  
+
+💡 **2025 Goals**  
+- Contribute to impactful **open-source projects**.  
+- Expand experience in **system design and scalability**.  
+
+---
+
 ### 🏈 Outside of Tech
 I’m a big believer in balance, so outside of school and engineering, you’ll find me:  
 - Cheering for the **Dallas Cowboys 🏈**, **Dallas Mavericks 🏀**, and **Texas Rangers ⚾**  
